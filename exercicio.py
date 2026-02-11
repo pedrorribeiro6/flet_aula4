@@ -2,7 +2,7 @@ import flet as ft
 
 def main(page: ft.Page):
     def mostrar_mensagem(e):
-        page.add(ft.Text("STAR PLATINUM! ZA WARUDO!"))
+        page.add(ft.Text("STAR PLATINUM! ZA WARUDO!")),
     
     page.add(
         ft.Text("Olá, meu nome é Jotaro Kujo!"),
